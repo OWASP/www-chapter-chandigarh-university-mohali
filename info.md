@@ -1,5 +1,5 @@
-### Chapter Information
-* Provide Group Information
+### Chandigarh University, Mohali
+* [Chandigarh University](https:/cuchd.in/)
 
 ### Social Links
 * [LinkedIn](https://www.linkedin.com/company/owasp-cu/)
